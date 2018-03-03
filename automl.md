@@ -3,7 +3,7 @@
 * https://github.com/automl/auto-sklearn
 * http://www.ml4aad.org/
 
-### А вот фейсбук с утра выложил в открытый доступ систему Detectron, позволяющую выделять объекты на видео и фотографиях. Качество работы сравнимо с прочими работами, в том числе с облачными решениями от Майкрософт и гугла, но в отличие от них детектрон выложен в опенсорс для изучения и улучшения.
+### facebook posted an open access system Detectron, which allows you to select objects on video and photos. The quality of the work is comparable with other works, including cloud solutions from Microsoft and Google, but unlike them, the detector is placed in the open source for study and improvement.
 
 * https://github.com/facebookresearch/Detectron/blob/master/README.md
 * https://cloud.google.com/automl/
