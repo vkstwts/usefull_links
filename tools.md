@@ -1,31 +1,31 @@
 # Instruments
-### !!!!! Python factor analysis library (PCA, CA, MCA, FAMD)
+### Python factor analysis library (PCA, CA, MCA, FAMD)
 https://github.com/MaxHalford/Prince
 
-### !!!!! Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+### Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 https://github.com/spotify/annoy
 
-### !!!!! A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(http://github.com/microsoft/dmtk) project of Microsoft.
-https://github.com/Microsoft/LightGBM
-https://www.dmtk.io
-https://devhub.io/repos/Microsoft-DMTK
-https://github.com/Microsoft/LightGBM/blob/master/docs/Parameters-tuning.md
-https://github.com/ArdalanM/pyLightGBM
-https://www.kaggle.com/c/allstate-claims-severity/discussion/24527#140241
+### A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(http://github.com/microsoft/dmtk) project of Microsoft.
+* https://github.com/Microsoft/LightGBM
+* https://www.dmtk.io
+* https://devhub.io/repos/Microsoft-DMTK
+* https://github.com/Microsoft/LightGBM/blob/master/docs/Parameters-tuning.md
+* https://github.com/ArdalanM/pyLightGBM
+* https://www.kaggle.com/c/allstate-claims-severity/discussion/24527#140241
 
-### !!!!! A little word cloud generator in Python
+### A little word cloud generator in Python
 https://github.com/amueller/word_cloud
 
-### !!!!! Keras 2.0
+### Keras 2.0
 https://blog.keras.io/introducing-keras-2.html
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
+### A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
 https://github.com/rhiever/tpot
 
-### !!!!! A Python implementation of global optimization with gaussian processes.
+### A Python implementation of global optimization with gaussian processes.
 https://github.com/fmfn/BayesianOptimization
 
-### !!!!! NLP
+### NLP
 https://spacy.io/
 
 ### A platform that helps you build, manage and monitor deep learning models http://polyaxon.com
@@ -34,14 +34,14 @@ https://github.com/polyaxon/polyaxon
 ### A library for benchmarking vulnerability to adversarial examples
 https://github.com/tensorflow/cleverhans
 
-### !!!!! deep2ch-scraper
+### deep2ch-scraper
 https://github.com/kiselev1189/deep2ch-scraper
 
-### !!!!! catboost
-https://github.com/catboost
-https://yandex.ru/blog/company/catboost-novyy-metod-mashinnogo-obucheniya-ot-yandeksa
-https://nplus1.ru/material/2017/07/18/yandex-catboost
-https://www.youtube.com/watch?v=s8Q_orF4tcI&feature=youtu.be
+### catboost
+* https://github.com/catboost
+* https://yandex.ru/blog/company/catboost-novyy-metod-mashinnogo-obucheniya-ot-yandeksa
+* https://nplus1.ru/material/2017/07/18/yandex-catboost
+* https://www.youtube.com/watch?v=s8Q_orF4tcI&feature=youtu.be
 
 ### facets (visualization)
 https://pair-code.github.io/facets/
@@ -53,11 +53,11 @@ https://github.com/tzutalin/labelImg
 https://github.com/zygmuntz/phraug2
 
 ### Image augmentation for machine learning experiments
-https://github.com/aleju/imgaug
-https://codebox.net/pages/image-augmentation-with-python
-http://tensorpack.readthedocs.io/en/latest/modules/dataflow.imgaug.html
+* https://github.com/aleju/imgaug
+* https://codebox.net/pages/image-augmentation-with-python
+* http://tensorpack.readthedocs.io/en/latest/modules/dataflow.imgaug.html
 
-### !!!!! Великолепная либа на питоне для работы с видео
+### Великолепная либа на питоне для работы с видео
 https://github.com/Zulko/moviepy
 
 ### facebook pca

@@ -106,23 +106,23 @@ http://greenteapress.com/wp/think-stats-2e/
 ### Express course of machine learning
 https://github.com/CommanderDuck/express_ml
 
-### !!!!! Learn TensorFlow and deep learning, without a Ph.D.
+### Learn TensorFlow and deep learning, without a Ph.D.
 https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 
-### !!!!! Foundations of Machine Learning Boot Camp
+### Foundations of Machine Learning Boot Camp
 https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD
 https://www.youtube.com/watch?v=-SY4-GkDM8g
 https://www.youtube.com/watch?v=R_o6nUC1Nzo
 https://www.youtube.com/watch?v=jompe29_A74
 https://www.youtube.com/watch?v=SNKypQ8y6SM
 
-### !!!!! Foundations of Machine Learning Boot Camp
+### Foundations of Machine Learning Boot Camp
 https://www.youtube.com/playlist?list=PLgKuh-lKre11IkXepFchTN0gHxN84PW65
 
 ### Список курсов
 http://eclass.cc/courselists/117_deep_learning
 
-### !!!!! introtodeeplearning
+### introtodeeplearning
 http://introtodeeplearning.com/schedule.html
 
 ### express ml course
@@ -137,10 +137,10 @@ http://bigdata-madesimple.com/review-of-top-10-online-data-science-courses/
 ### data science harvard course (2014)
 http://cs109.github.io/2014/
 
-### !!!!!@@@@@#####$$$$$&&&&& List of all Udacity Nanodegree programs with links to the free courses in their curricula
+### List of all Udacity Nanodegree programs with links to the free courses in their curricula
 https://github.com/mikesprague/udacity-nanodegrees#data-analyst-nanodegree
 
-### !!!!!@@@@@ Welcome to fast.ai's 7 week course, Practical Deep Learning For Coders, Part 1, taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic). Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down. Oh and one other thing... it's totally free! 
+### Welcome to fast.ai's 7 week course, Practical Deep Learning For Coders, Part 1, taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic). Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down. Oh and one other thing... it's totally free! 
 http://course.fast.ai/
 
 ### Библиотека программиста - Видеолекции и видеоуроки
@@ -149,121 +149,121 @@ https://vk.com/page-54530371_48968741
 ### Machine Learning at the Kazan Federal University, 2014
 http://logic.pdmi.ras.ru/~sergey/teaching/mlkfu2014.html
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&***** Машинное обучение на ФКН ВШЭ (Семинары по машинному обучению, ВМК МГУ)
+### Машинное обучение на ФКН ВШЭ (Семинары по машинному обучению, ВМК МГУ)
 https://github.com/esokolov/ml-course-msu
 https://github.com/esokolov/ml-course-hse
 http://wiki.cs.hse.ru/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_1
 
-### !!!!! Introduction to Data Science in Python
+### Introduction to Data Science in Python
 https://www.coursera.org/learn/python-data-analysis/home/welcome
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&***** Learning from data
+### Learning from data
 http://work.caltech.edu/lectures.html
 
-### !!! TensorFlow Basic Tutorial Labs
+### TensorFlow Basic Tutorial Labs
 https://www.youtube.com/user/hunkims
 https://github.com/hunkim/DeepLearningZeroToAll
 
-### !!!!!@@@@@$$$$$%%%%%&&&&&***** ODS course
+### ODS course
 https://habrahabr.ru/company/ods/blog/322626/
 
-### !!!!! Графические модели
+### Графические модели
 http://www.machinelearning.ru/wiki/index.php?title=%D0%93%D0%9C
 
-### !!!!! UC Berkeley CS188 Intro to AI -- Course Materials (Я смотрел в таком порядке лекции 12, 16, 17, 18, 19, 20, 21, 13, 14, 15)
+### UC Berkeley CS188 Intro to AI -- Course Materials (Я смотрел в таком порядке лекции 12, 16, 17, 18, 19, 20, 21, 13, 14, 15)
 http://ai.berkeley.edu/lecture_videos.html
 
-### !!!!! Univariate Distribution Relationships
+### Univariate Distribution Relationships
 http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 
-### !!!!!@@@@@$$$$$%%%%%&&&&& UCL Course on RL
+### UCL Course on RL
 http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 https://www.youtube.com/watch?v=2pWv7GOvuf0
 
-### !!!!!@@@@@$$$$$%%%%%&&&&& CS 20SI: Tensorflow for Deep Learning Research
+### CS 20SI: Tensorflow for Deep Learning Research
 http://web.stanford.edu/class/cs20si/syllabus.html
 
-### !!!!!@@@@@$$$$$ 5 Free Courses for Getting Started in Artificial Intelligence
-http://www.kdnuggets.com/2017/02/5-free-courses-getting-started-artificial-intelligence.html?utm_content=buffer997d4&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+### 5 Free Courses for Getting Started in Artificial Intelligence
+http://www.kdnuggets.com/2017/02/5-free-courses-getting-started-artificial-intelligence.html
 
-### !!!!!  HarvardX: PH526x Using Python for Research
+### HarvardX: PH526x Using Python for Research
 https://courses.edx.org/courses/course-v1:HarvardX+PH526x+3T2016/courseware/71f5981d747d40929415ad1fe41225ba/333c0c7461e5451f893c832d3a529463/
 
-### !!!!!@@@@@$$$$$%%%%%&&&&& Course notes for CS224N Winter17 (RNNs) NLP
+### Course notes for CS224N Winter17 (RNNs) NLP
 https://github.com/stanfordnlp/cs224n-winter17-notes
 
-### !!!!!@@@@@$$$$$%%%%%&&&&&88888*****00000+++++=====!!!!! A course in reinforcement learning in the wild
+### A course in reinforcement learning in the wild
 https://github.com/yandexdataschool/Practical_RL/tree/master
 https://github.com/yandexdataschool/HSE_deeplearning
 
-### !!!!!@@@@@$$$$$ Online Discussion: Deep Learning Book
+### Online Discussion: Deep Learning Book
 https://www.youtube.com/watch?v=IinSdnnEDpc
 
-### !!!!! Convex Optimization
+### Convex Optimization
 https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about
 
-### !!!!! Deep Learning From A to Z
+### Deep Learning From A to Z
 http://artificialbrain.xyz/deep-learning-from-a-to-z/
 
-### !!!!!@@@@@ Экспресс курс ML (deep learning)
+### dЭкспресс курс ML (deep learning)
 https://github.com/RomanovMikeV/deep_learning_course
 
-### !!!!!@@@@@ Лекции по курсу “Машинное обучение” (презентации с нормальными объяснениями), для быстрого изучения
+### dЛекции по курсу “Машинное обучение” (презентации с нормальными объяснениями), для быстрого изучения
 http://www.levvu.narod.ru/EdProcess.htm
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 yandexdataschool/Practical_RL A course in reinforcement learning in the wild
+### yandexdataschool/Practical_RL A course in reinforcement learning in the wild
 https://github.com/yandexdataschool/Practical_RL
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Natural Language Processing with Deep Learning (Stanford)
+### Natural Language Processing with Deep Learning (Stanford)
 https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&index=1
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Вводная лекция Максима Кретова "Введение в машинное обучение" (и далее там целый курс) MIPT ML course Feb-May 2017: introduction to ML and DL
+### Вводная лекция Максима Кретова "Введение в машинное обучение" (и далее там целый курс) MIPT ML course Feb-May 2017: introduction to ML and DL
 https://www.youtube.com/watch?v=NIfFXmtLYyE&feature=youtu.be
 https://github.com/5vision/miptmlcourse
 
-### !!!!! Probability Primer
+### Probability Primer
 https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
 
-### !!!!! Введение в вероятностный язык построения моделей машинного обучения
+### Введение в вероятностный язык построения моделей машинного обучения
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpR8mbaShVBods-hGaFGifkl
 
-### !!!!!@@@@@ Monte Carlo theory, methods and examples
+### dMonte Carlo theory, methods and examples
 http://statweb.stanford.edu/~owen/mc/
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 CS231n Winter 2016
+### CS231n Winter 2016
 https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
 
-### !!!!! Slides and other stuff from a small introductory course on machine learning (in russian)
+### Slides and other stuff from a small introductory course on machine learning (in russian)
 https://github.com/gorinars/mlnotes_mstu_ru
 
-### !!!!! 10-600 Math Background for ML
+### 10-600 Math Background for ML
 https://www.youtube.com/watch?v=7MN3OP1IYk8&list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg
 
-### !!!!!@@@@@$$$$$%%%%%&&&&&*****88888 Курс "Введение в компьютерное зрение и глубокое обучение" 2017 (Конушин)
+### Курс "Введение в компьютерное зрение и глубокое обучение" 2017 (Конушин)
 https://www.youtube.com/playlist?list=PLbwKcm5vdiSYL_yEwQ6JIICBA4dMtHNxo
 
-### !!!!! Основы машинного обучения за неделю
+### Основы машинного обучения за неделю
 https://proglib.io/p/basics-of-ml/
 
-### !!!!!@@@@@ Введение в машинное обучение с tensorflow
+### dВведение в машинное обучение с tensorflow
 https://habrahabr.ru/post/326650/
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 6.S191: Introduction to Deep Learning (A 1-week extensive survey of deep learning methods and applications)
+### 6.S191: Introduction to Deep Learning (A 1-week extensive survey of deep learning methods and applications)
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Спецкурс «Прикладные задачи анализа данных»
+### Спецкурс «Прикладные задачи анализа данных»
 http://www.machinelearning.ru/wiki/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%BA%D1%83%D1%80%D1%81_%C2%AB%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%C2%BB
 
-### !!!!! Машинное обучение это весело! (Самое простое введение в машинное обучение)
+### Машинное обучение это весело! (Самое простое введение в машинное обучение)
 http://algotravelling.com/ru/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%8D%D1%82%D0%BE-%D0%B2%D0%B5%D1%81%D0%B5%D0%BB%D0%BE-1/
 
 ### Ваш персональный курс по Big Data
 https://habrahabr.ru/company/mlclass/blog/252743/
 
-### !!!!! Дискретные структуры: матан для айтишников
+### Дискретные структуры: матан для айтишников
 https://habrahabr.ru/post/252077/
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Data Mining in Action
+### Data Mining in Action
 https://www.youtube.com/channel/UCop3CelRVvrchG5lsPyxvHg/videos
 https://github.com/alexeyantonov/MIPT_Data_Mining_In_Action_2016
 http://datamininginaction.ru/
@@ -272,34 +272,34 @@ https://github.com/vkantor
 ### Введение в обработку естественного языка
 https://stepik.org/course/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83-%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-1233/syllabus
 
-### !!!!! Магистерская программа «Финансовые технологии и анализ данных»
+### Магистерская программа «Финансовые технологии и анализ данных»
 https://www.hse.ru/ma/fintech/courses_1
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 cs231n.stanford
+###  dcs231n.stanford
 http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf
 
-### !!!!!@@@@@ Natural Language Processing with Deep Learning
+###  dNatural Language Processing with Deep Learning
 http://artificialbrain.xyz/natural-language-processing-with-deep-learning/
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 The Open-Source Data Science Masters (awesome collection of links)
+###  dThe Open-Source Data Science Masters (awesome collection of links)
 https://github.com/datasciencemasters/go/blob/master/README.md
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 ODS ML course
+###  dODS ML course
 https://github.com/Yorko/mlcourse_open/
 
-### !!!!!@@@@@ Введение в обработку естественного языка
+###  dВведение в обработку естественного языка
 https://stepik.org/course/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83-%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-1233/syllabus
 
-### !!!!!@@@@@ DevCon School: Практическое введение в нейронные сети и глубокое обучение
+###  dDevCon School: Практическое введение в нейронные сети и глубокое обучение
 https://www.youtube.com/watch?v=M3hBC-svNDQ
 
-### !!!!!@@@@@ CS 20SI: Tensorflow for Deep Learning Research
+###  dCS 20SI: Tensorflow for Deep Learning Research
 http://web.stanford.edu/class/cs20si/syllabus.html
 
-### !!!!!@@@@@ I ranked every Intro to Data Science course on the internet, based on thousands of data points
+###  dI ranked every Intro to Data Science course on the internet, based on thousands of data points
 https://medium.freecodecamp.com/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e
 
-## !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 Практическое введение в нейронные сети и глубокое обучение (microsoft)
+##  dПрактическое введение в нейронные сети и глубокое обучение (microsoft)
 ### Часть 1
 https://www.youtube.com/watch?v=uaBp0uiLvKQ
 ### Часть 2
@@ -307,58 +307,58 @@ https://www.youtube.com/watch?v=_sF8d9Yt7JI
 ### Часть 3
 https://www.youtube.com/watch?v=N7hYq2dSY8A
 
-### !!!!!@@@@@$$$$$%%%%%&&&&&88888 The Analytics Edge
+### The Analytics Edge
 https://www.edx.org/course/analytics-edge-mitx-15-071x-3
 
-### !!!!!@@@@@ ods math list
+### dods math list
 https://docs.google.com/document/d/10IkL_EUSNMm1WLzUoPitDNs3MIo2Dvx0xQR56EMhK2E/edit#heading=h.70uvo7zhg5n
 https://docs.google.com/spreadsheets/d/193UEIEFKkuD-glKFIJiy50r_NIsqV6m3YG7DjYKAUnw/edit#gid=0
 
-### !!!!!@@@@@ A curated list of awesome mathematics resources
+### dA curated list of awesome mathematics resources
 https://github.com/rossant/awesome-math
 
-### !!!!!@@@@@ Scipy Lecture Notes
+### dScipy Lecture Notes
 http://www.scipy-lectures.org/
 
-### !!!!!@@@@@ Vowpal wabbit tutorial
+### dVowpal wabbit tutorial
 https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem08_vw.pdf
 
-### !!!!@@@@@ ods ml course in english
+### ods ml course in english
 https://github.com/CButsko/ODS_course_eng/
 
-### !!!!! Sparse Matrices and their Compression Algorithms
+### Sparse Matrices and their Compression Algorithms
 https://dark-element.com/2017/06/11/sparse-matrices-and-their-compression-algorithms/
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 4 книги, которые разбудят в вас математика
+### d4 книги, которые разбудят в вас математика
 https://proglib.io/p/4books-for-math/
 
-### !!!!!@@@@@ CS50 на русском (Гарвардский курс по основам программирования)
+### dCS50 на русском (Гарвардский курс по основам программирования)
 https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5
 
-### !!!!! Интернет-предпринимательство
+### Интернет-предпринимательство
 https://www.coursera.org/learn/internet-predprinimatelstvo/home/welcome
 
-### !!!!!@@@@@ Deep Learning Specialization (понятно, но очень поверхностно)
+### dDeep Learning Specialization (понятно, но очень поверхностно)
 https://www.coursera.org/specializations/deep-learning
 
-### !!!!!@@@@@88888 Глубокое обучение на Python (хорошее пояснение по теме)
+### Глубокое обучение на Python (хорошее пояснение по теме)
 https://www.youtube.com/watch?v=GX7qxV5nh5o&index=1&list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_
 https://github.com/sozykin/dlpython_course
 
 ### Tensorflow Tutorial Series 1 (не смотрел)
 https://www.youtube.com/playlist?list=PL52d51R1IlfYH7GrT0ehSxlPSarm5sll6
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Dan Jurafsky & Chris Manning: Natural Language Processing
+### Dan Jurafsky & Chris Manning: Natural Language Processing
 https://www.youtube.com/playlist?list=PL6397E4B26D00A269
 
-### !!!!!@@@@@$$$$$%%%%%88888 Introduction to Deep Learning (если что, то там целая специализация)
+### Introduction to Deep Learning (если что, то там целая специализация)
 https://www.coursera.org/learn/intro-to-deep-learning/
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^88888 Книги для возможного курса (простые наброски)
+### Книги для возможного курса (простые наброски)
 http://frnsys.com/ai_notes/
 https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/feature_scaling.html
 
-### !!!!!@@@@@ New course by Ng
+### New course by Ng
 https://www.coursera.org/learn/machine-learning-projects/
 
 ### Анализ данных на R в примерах и задачах
@@ -367,7 +367,7 @@ https://www.youtube.com/watch?v=orgXajB6z58&list=PLlb7e2G7aSpTh7pQG8ek1Uv5-zatv8
 ### Анализ данных и Deep Learning
 https://www.youtube.com/watch?v=CN3jazuiprQ
 
-### !!!!!@@@@@ Видеокурс "Анализ изображений и видео"
+### dВидеокурс "Анализ изображений и видео"
 https://t.me/proglibrary/1983
 https://www.youtube.com/watch?v=DclyqYN99og&list=PLlb7e2G7aSpQc4CW-9BI9L_jZVyUbbSWX
 https://vk.com/wall-54530371_182024?w=page-54530371_53318842

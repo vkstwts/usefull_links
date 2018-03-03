@@ -1,83 +1,50 @@
 # Боты
 ### Create bot
-https://www.youtube.com/watch?v=09buxer2r-I&feature=youtu.be
-https://www.gitbook.com/book/kondra007/telegram-bot-lessons/details
-https://github.com/python-telegram-bot/python-telegram-bot#learning-by-example # !
-https://blog.scrapinghub.com/2016/11/24/how-to-build-your-own-price-monitoring-tool/
-https://khashtamov.com/2016/04/create-telegram-bot-in-python/
-https://habrahabr.ru/post/316148/
+* https://www.youtube.com/watch?v=09buxer2r-I&feature=youtu.be
+* https://www.gitbook.com/book/kondra007/telegram-bot-lessons/details
+* https://github.com/python-telegram-bot/python-telegram-bot#learning-by-example # !
+* https://blog.scrapinghub.com/2016/11/24/how-to-build-your-own-price-monitoring-tool/
+* https://khashtamov.com/2016/04/create-telegram-bot-in-python/
+* https://habrahabr.ru/post/316148/
 
 ### bankbot
-http://money.rbc.ru/news/583840559a7947a522e8c434
-
-https://habrahabr.ru/post/302688/
-
-https://habrahabr.ru/post/262247/
-
-https://github.com/yukuku/telebot
-
-https://slon.ru/posts/69412
-
-https://habrahabr.ru/company/spbau/blog/303478/
-
-https://medium.com/chat-bots-developers/tagged/telegram
-
-https://medium.com/chat-bots-news
-
-https://www.youtube.com/playlist?list=PLQR-s_7hVHyN5oeDb7dLymzzHw1XNtWiC
-
-http://www.telegrambots.info/
-
-https://chatfuel.com/create-chatbot-for-telegram
-
-https://habrahabr.ru/company/spottle/blog/303528/
-
-http://blizzy.ru/telegram/razmesaem-bota-na-platforme-heroku
-
-https://toster.ru/q/237782
-
-http://mvalipour.github.io/node.js/2015/11/10/build-telegram-bot-nodejs-heroku/
-
-https://github.com/python-telegram-bot/python-telegram-bot/wiki/Where-to-host-Telegram-Bots
-
-https://habrahabr.ru/post/304150/
-
-https://github.com/urandon/pyloggers
-
-https://drive.google.com/file/d/0B6RV1c6N3JOveGExZTQxZkxwOWc/view
-
-https://habrahabr.ru/post/305694/
-
-http://click-or-die.ru/2016/07/fedor-skuratov/
-
-https://www.twilio.com/blog/2016/05/build-sms-slack-bot-python.html
-
-https://www.applozic.com/blog/how-to-build-bot-using-hubot/
-
-https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.6jbydysw9 # lots of links
-
-https://roem.ru/22-08-2016/231299/6-chat-bot-problems/
-
-https://medium.com/@tedlivingston/bots-are-better-without-conversation-fcf9e7634fc4#.qklmx5dkd
-
-https://code.facebook.com/posts/1438652669495149/fair-open-sources-fasttext/#
-
-https://vc.ru/p/xor
-
-https://habrahabr.ru/post/312886/
-
-https://habrahabr.ru/post/311008/
-
-https://roem.ru/07-11-2016/236135/frii-robot-yurist/
-
-https://vc.ru/n/telegram-200-bots
-
-http://rb.ru/opinion/400-klientov/?f
-
-https://vc.ru/p/rocketbot
+* http://money.rbc.ru/news/583840559a7947a522e8c434
+* https://habrahabr.ru/post/302688/
+* https://habrahabr.ru/post/262247/
+* https://github.com/yukuku/telebot
+* https://slon.ru/posts/69412
+* https://habrahabr.ru/company/spbau/blog/303478/
+* https://medium.com/chat-bots-developers/tagged/telegram
+* https://medium.com/chat-bots-news
+* https://www.youtube.com/playlist?list=PLQR-s_7hVHyN5oeDb7dLymzzHw1XNtWiC
+* http://www.telegrambots.info/
+* https://chatfuel.com/create-chatbot-for-telegram
+* https://habrahabr.ru/company/spottle/blog/303528/
+* http://blizzy.ru/telegram/razmesaem-bota-na-platforme-heroku
+* https://toster.ru/q/237782
+* http://mvalipour.github.io/node.js/2015/11/10/build-telegram-bot-nodejs-heroku/
+* https://github.com/python-telegram-bot/python-telegram-bot/wiki/Where-to-host-Telegram-Bots
+* https://habrahabr.ru/post/304150/
+* https://github.com/urandon/pyloggers
+* https://drive.google.com/file/d/0B6RV1c6N3JOveGExZTQxZkxwOWc/view
+* https://habrahabr.ru/post/305694/
+* http://click-or-die.ru/2016/07/fedor-skuratov/
+* https://www.twilio.com/blog/2016/05/build-sms-slack-bot-python.html
+* https://www.applozic.com/blog/how-to-build-bot-using-hubot/
+* https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.6jbydysw9 # lots of links
+* https://roem.ru/22-08-2016/231299/6-chat-bot-problems/
+* https://medium.com/@tedlivingston/bots-are-better-without-conversation-fcf9e7634fc4#.qklmx5dkd
+* https://code.facebook.com/posts/1438652669495149/fair-open-sources-fasttext/#
+* https://vc.ru/p/xor
+* https://habrahabr.ru/post/312886/
+* https://habrahabr.ru/post/311008/
+* https://roem.ru/07-11-2016/236135/frii-robot-yurist/
+* https://vc.ru/n/telegram-200-bots
+* http://rb.ru/opinion/400-klientov/?f
+* https://vc.ru/p/rocketbot
 
 ### Build Marvin the Depressed Reddit Bot in Python
-http://pythonforengineers.com/build-marvin-the-depressed-reddit-bot-in-python/
+* http://pythonforengineers.com/build-marvin-the-depressed-reddit-bot-in-python/
 
 ### Hello, Bot! Чат-боты – следующее поколение приложений?
 https://habrahabr.ru/company/microsoft/blog/281459/
