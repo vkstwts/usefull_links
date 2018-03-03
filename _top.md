@@ -1,4 +1,5 @@
-* http://www.sravni.ru/novost/2017/1/27/70-knig-kotorye-german-gref-rekomenduet-svoim-top-menedzheram/
+
+* ~~http://www.sravni.ru/novost/2017/1/27/70-knig-kotorye-german-gref-rekomenduet-svoim-top-menedzheram/~~
 * https://www.packtpub.com/packt/offers/free-learning
 * http://www.oreilly.com/free/reports.html
 
@@ -27,14 +28,11 @@
 ### Data Science for Beginners: Fantastic Introductory Video Series from Microsoft
 * http://www.kdnuggets.com/2016/08/data-science-beginners-video-series.html
 
-### Курс языка Python и базовых алгоритмов и структур данных
+### Python language and basic algorithms and data structures
 * https://github.com/Yorko/python_intro
 
 ### prereq for ml course
 * https://opendatascience.slack.com/archives/mlcourse_open/p1487251685000590
-
-### Книги
-https://yadi.sk/d/UG22a-9n3EDDsn
 
 ### Bare bones Python implementations of some of the foundational Machine Learning models and algorithms.
 * https://github.com/eriklindernoren/ML-From-Scratch
@@ -44,8 +42,3 @@ https://yadi.sk/d/UG22a-9n3EDDsn
 
 ### J.P.Morgan’s massive guide to machine learning and big data jobs in finance
 * http://news.efinancialcareers.com/uk-en/285249/machine-learning-and-big-data-j-p-morgan/
-
-
-
-
-
