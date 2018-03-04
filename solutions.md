@@ -1,4 +1,4 @@
-# Решения
+# Solutions
 * http://dsguide.biz/competitions/
 * http://blog.kaggle.com/2016/06/01/home-depot-product-search-relevance-winners-interview-3rd-place-team-turing-test-igor-kostia-chenglong/
 * http://blog.kaggle.com/2016/05/18/home-depot-product-search-relevance-winners-interview-1st-place-alex-andreas-nurlan/
@@ -47,16 +47,36 @@ https://github.com/alexeygrigorev/wsdmcup17-vandalism-detection
 ### 
 https://github.com/HFTrader/awesome-machine-learning#python-kaggle
 
+#### Kaggle Competition Source Code
+
+* [wiki challenge](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
+* [kaggle insults](https://github.com/amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary"
+* [kaggle_acquire-valued-shoppers-challenge](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge
+* [kaggle-cifar](https://github.com/zygmuntz/kaggle-cifar) - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet
+* [kaggle-blackbox](https://github.com/zygmuntz/kaggle-blackbox) - Deep learning made easy
+* [kaggle-accelerometer](https://github.com/zygmuntz/kaggle-accelerometer) - Code for Accelerometer Biometric Competition at Kaggle
+* [kaggle-advertised-salaries](https://github.com/zygmuntz/kaggle-advertised-salaries) - Predicting job salaries from ads - a Kaggle competition
+* [kaggle amazon](https://github.com/zygmuntz/kaggle-amazon) - Amazon access control challenge
+* [kaggle-bestbuy_big](https://github.com/zygmuntz/kaggle-bestbuy_big) - Code for the Best Buy competition at Kaggle
+* [kaggle-bestbuy_small](https://github.com/zygmuntz/kaggle-bestbuy_small)
+* [Kaggle Dogs vs. Cats](https://github.com/kastnerkyle/kaggle-dogs-vs-cats) - Code for Kaggle Dovs vs. Cats competition
+* [Kaggle Galaxy Challenge](https://github.com/benanne/kaggle-galaxies) - Winning solution for the Galaxy Challenge on Kaggle
+* [Kaggle Gender](https://github.com/zygmuntz/kaggle-gender) - A Kaggle competition: discriminate gender based on handwriting
+* [Kaggle Merck](https://github.com/zygmuntz/kaggle-merck) - Merck challenge at Kaggle
+* [Kaggle Stackoverflow](https://github.com/zygmuntz/kaggle-stackoverflow) - Predicting closed questions on Stack Overflow
+* [kaggle_acquire-valued-shoppers-challenge](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge
+* [wine-quality](https://github.com/zygmuntz/wine-quality) - Predicting wine quality
+
 ### Santander Product Recommendation Competition: 3rd Place Winner's Interview, Ryuji Sakata
 http://blog.kaggle.com/2017/02/22/santander-product-recommendation-competition-3rd-place-winners-interview-ryuji-sakata/
 
-### Отчёт со Sberbank Data Science Day: решения, победители, интервью
+### Report from Sberbank Data Science Day: decisions, winners, interviews
 https://habrahabr.ru/article/318160/
 
 ### Data Science Bowl 2017 baseline
 https://www.kaggle.com/drn01z3/data-science-bowl-2017/mxnet-xgboost-baseline-lb-0-57
 
-### 
+### Tinkoff Data Science Challenge
 https://github.com/CapitanKK/tinkoff-challenge-2
 
 ### Allstate Claims Severity Competition, 2nd Place Winner's Interview: Alexey Noskov
@@ -65,26 +85,26 @@ http://blog.kaggle.com/2017/02/27/allstate-claims-severity-competition-2nd-place
 ### Parallel t-SNE implementation with Python and Torch wrappers
 https://github.com/DmitryUlyanov/Multicore-TSNE
 
-### хорошее объяснение чем хорош lightgbm при работе с категориальными переменными и как на его основе можно упрощать поиск параметров в xgboost. �так же много ссылок на решения от выступающих
+### A good explanation of how good `lightgbm` is when working with categorical variables and how it can be used to simplify the search for parameters in `xgboost`. And many references to decisions from speakers
 https://www.youtube.com/watch?v=4QqWC_eAT3Q&t=4218s
 
 ### https://www.kaggle.com/c/bosch-production-line-performance/discussion/25382
 https://www.kaggle.com/c/bosch-production-line-performance/discussion/25382
 
-### !!!!!
+### Regression_example_kaggle_allstate
 https://github.com/ArdalanM/pyLightGBM/blob/master/notebooks/regression_example_kaggle_allstate.ipynb
 
-### very good blog (discussions) @ kaggle
+### Very good blog (discussions) @ kaggle
 https://www.kaggle.com/laurae2/discussion
 
-### Победное решение конкурса ML Boot Camp III
+### The winning decision of the contest - ML Boot Camp III
 https://habrahabr.ru/post/324916/
 https://github.com/KarachunMikhail/mlbootcamp_online_game
 
-### Спортивный анализ данных, или как стать специалистом по data science
+### Sports analysis of data, or how to become an expert in data science
 https://habrahabr.ru/company/yandex/blog/327444/
 
-### Kaggle: История о том как мы учились предсказывать релевантность поисковых запросов и заняли 3-е место
+### Kaggle: The story of how we learned to predict the relevance of search queries and took 3rd place
 https://habrahabr.ru/post/305026/#comment_9697464
 
 ### Allstate Claims Severity
@@ -108,17 +128,17 @@ http://blog.kaggle.com/2017/03/24/leaf-classification-competition-1st-place-winn
 ### March Machine Learning Mania, 4th Place Winner's Interview: Erik Forseth
 http://blog.kaggle.com/2017/05/05/march-machine-learning-mania-4th-place-winners-interview-erik-forseth/
 
-### как начать кэгл
+### How to start kaggle
 * https://github.com/mephistopheies/mlworkshop39_042017/blob/master/3_masterclass/ipy/feature_extraction.ipynb
 * https://github.com/mephistopheies/mlworkshop39_042017
 
 ### Two Sigma Financial Modeling Challenge, Winner's Interview: 2nd Place, Nima Shahbazi, Chahhou Mohamed
 http://blog.kaggle.com/2017/05/25/two-sigma-financial-modeling-challenge-winners-interview-2nd-place-nima-shahbazi-chahhou-mohamed/
 
-### Популярность статьи на хабре (щвы)
-http://nbviewer.jupyter.org/github/vdyashin/mlcourse_open/blob/master/jupyter_notebooks/topic04_linear_models/habr_popularity.ipynb
+### ~~Популярность статьи на хабре (щвы)
+http://nbviewer.jupyter.org/github/vdyashin/mlcourse_open/blob/master/jupyter_notebooks/topic04_linear_models/habr_popularity.ipynb~~
 
-### solutions thread for ods course
+### Solutions thread for ods course
 * https://opendatascience.slack.com/conversation/mlcourse_open/p1496237205587025
 * http://nbviewer.jupyter.org/github/alexionby/mlcourse_open/blob/master/jupyter_notebooks/topic04_linear_models/copy_mode.ipynb
 * https://nbviewer.jupyter.org/github/alexionby/mlcourse_open/blob/master/jupyter_notebooks/topic04_linear_models/Features.ipynb
@@ -129,16 +149,16 @@ https://www.kaggle.com/xavier14/catalonia-gdp-insights-and-regression-analysis
 ### [CVPR'17 Youtube-8M] Cultivating DNN Diversity for Large Scale Video Labelling - Kaggle #7
 https://www.youtube.com/watch?v=kKHw5PF3jcU
 
-### very good script and EDA (Exploratory Data Analysis)
+### Very good script and EDA (Exploratory Data Analysis)
 https://www.kaggle.com/headsortails/personalised-medicine-eda-with-tidy-r
 
 ### Doc2Vec with Keras
 https://www.kaggle.com/alyosama/doc2vec-with-keras-0-77
 
-### Kaggle Intel & MobileODT Cervical Cancer Screening (4th place solution) (много интересного для обработки изображений)
+### Kaggle Intel & MobileODT Cervical Cancer Screening (4th place solution) (interesting for image processing)
 https://github.com/lRomul/intel_cancer
 
-### (отличный разбор)
+### excellent parsing
 * https://www.youtube.com/watch?v=HT3QpRp2ewA
 * https://habrahabr.ru/company/ods/blog/336168/
 
@@ -151,7 +171,7 @@ https://github.com/lRomul/intel_cancer
 * https://www.youtube.com/watch?v=fO3WCR5W4ls) (там еще много интересного)
 * https://github.com/sjvasquez/instacart-basket-prediction
 
-### sber poker bot
+### Sber poker bot
 https://github.com/tyz910/sberbank-holdem-bot
 
 ### Kaggle Carvana Image Masking Challenge (top 1 solution)
@@ -160,22 +180,3 @@ https://docs.google.com/document/d/1hSGK2sp92g3KGg5zqzC7G82705MhgOx6_KHypYUrKr0/
 
 ### Mercedes-Benz Greener Masking Challenge Masking Challenge–1st Place Winner's Interview
 http://blog.kaggle.com/2017/12/28/mercedez-benz-greener-masking-first-place/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
