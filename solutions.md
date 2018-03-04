@@ -1,5 +1,5 @@
 # Solutions
-* http://dsguide.biz/competitions/
+* ~~http://dsguide.biz/competitions/~~
 * http://blog.kaggle.com/2016/06/01/home-depot-product-search-relevance-winners-interview-3rd-place-team-turing-test-igor-kostia-chenglong/
 * http://blog.kaggle.com/2016/05/18/home-depot-product-search-relevance-winners-interview-1st-place-alex-andreas-nurlan/
 * http://blog.kaggle.com/2016/08/31/avito-duplicate-ads-detection-winners-interview-2nd-place-team-the-quants-mikel-peter-marios-sonny/
@@ -8,7 +8,7 @@
 * http://blog.kaggle.com/2016/08/31/avito-duplicate-ads-detection-winners-interview-2nd-place-team-the-quants-mikel-peter-marios-sonny/
 * http://blog.kaggle.com/2016/08/29/from-kaggle-to-google-deepmind-an-interview-with-sander-dieleman/
 
-### cikm cup 2016
+### CIKM cup 2016
 * https://github.com/alexeygrigorev/cikm-cup-2016-cross-device/
 * https://github.com/namkhanhtran/cikm-cup-2016-cross-device
 * http://mabrek.github.io/blog/kaggle-forecasting/
@@ -25,7 +25,7 @@
 ### Integer Sequence Learning Competition: Solution Write-up, Team 1.618 | Gareth Jones & Laurent Borderie
 * http://blog.kaggle.com/2016/11/21/integer-sequence-learning-competition-solution-write-up-team-1-618-gareth-jones-laurent-borderie/
 
-### Some courses solutions ()
+### Some courses solutions
 * https://github.com/movb?tab=repositories
 * https://github.com/movb/stepic
 
