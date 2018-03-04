@@ -16,9 +16,6 @@ https://github.com/spotify/annoy
 ### A little word cloud generator in Python
 https://github.com/amueller/word_cloud
 
-### Keras 2.0
-https://blog.keras.io/introducing-keras-2.html
-
 ### A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
 https://github.com/rhiever/tpot
 
@@ -57,7 +54,7 @@ https://github.com/zygmuntz/phraug2
 * https://codebox.net/pages/image-augmentation-with-python
 * http://tensorpack.readthedocs.io/en/latest/modules/dataflow.imgaug.html
 
-### Великолепная либа на питоне для работы с видео
+### Video editing with Python
 https://github.com/Zulko/moviepy
 
 ### facebook pca
