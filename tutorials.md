@@ -32,10 +32,10 @@ https://github.com/Yorko/mlcourse_open/tree/master/jupyter_notebooks/tutorials
 * https://github.com/josephmisiti/awesome-machine-learning # !
 
 # xgboost nice info, params tuning etc...
-* https://github.com/dmlc/xgboost/tree/master/demo # !
+* https://github.com/dmlc/xgboost/tree/master/demo
 * http://xgboost.readthedocs.io/en/latest/python/python_intro.html
 * http://xgboost.readthedocs.io/en/latest/how_to/param_tuning.html
-* http://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/ # ! xgb tuning
+* http://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
 * https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
 * https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
 * http://blog.yhat.com/posts/image-processing-with-scikit-image.html
