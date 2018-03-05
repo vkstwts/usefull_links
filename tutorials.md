@@ -3,7 +3,7 @@
 ### ods course tutorials
 https://github.com/Yorko/mlcourse_open/tree/master/jupyter_notebooks/tutorials
 
-### Check-list для подготовки качественной презентации
+### Check-list to create a quality presentation
 * https://habrahabr.ru/post/317546/
 * http://scikit-learn.org/stable/tutorial/machine_learning_map/ # scikit learn BEST ESTIMATORS
 * https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/ # tf for poets
